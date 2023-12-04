@@ -1,0 +1,162 @@
+{
+    "000001c4-58a0-4190-99ec-61861e08f97c": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv2/000001c4-58a0-4190-99ec-61861e08f97c.flac",
+        "duration": 5.36,
+        "source": "csv2",
+        "text": "\u0993\u09df\u09be\u09b6\u09bf\u0982\u099f\u09a8 \u099a\u09cc\u09a6\u09cd\u09a6 \u099c\u09c1\u09b2\u09be\u0987 \u09a6\u09c1\u0987 \u09b9\u09be\u099c\u09be\u09b0 \u09ac\u09be\u0987\u09b6",
+        "base_ipa": "o \u02b7 a \u0283 i \u014b t o n    c o u\u032f d\u032a d\u032a o    \u025f u l a i\u032f    d\u032a u i\u032f    h a \u025f a r    b a i\u032f \u0283",
+        "romanized_ipa": "owaSiNTon co\u03bcddo jula\u03b9 du\u03b9 Hajar ba\u03b9S"
+    },
+    "00004039-6117-498f-a907-f7121c5a949b": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv2/00004039-6117-498f-a907-f7121c5a949b.flac",
+        "duration": 2.88,
+        "source": "csv2",
+        "text": "\u09a4\u09cb\u09ae\u09be\u09b0 \u099a\u09b0\u09a3\u09c7 \u09a6\u09bf\u09ac \u09b9\u09c3\u09a6\u09df \u0996\u09c1\u09b2\u09bf\u09df\u09be",
+        "base_ipa": "t\u032a o m a r    c \u0254 r o n e    d\u032a i b o    h r i d\u032a \u0254 \u02b2    k\u02b0 u l i \u02b2 a",
+        "romanized_ipa": "tomar c\u2202rone dibo Hrid\u2202y Kuliya"
+    },
+    "00006683-1ba6-48b1-ad28-21bec896b863": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_create/00006683-1ba6-48b1-ad28-21bec896b863.flac",
+        "duration": 6.68,
+        "source": "offline_create",
+        "text": "\u09b8\u09b0\u0995\u09be\u09b0\u09bf \u09ae\u099c\u09c1\u09a6\u0993 \u09b8\u09b0\u09cd\u09ac\u0995\u09be\u09b2\u09c7\u09b0 \u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a \u09a4\u09be\u09b0\u09aa\u09b0\u0993 \u099a\u09be\u09b2\u09c7\u09b0 \u09a6\u09be\u09ae \u09a8\u09bf\u09df\u09a8\u09cd\u09a4\u09cd\u09b0\u09a3 \u0995\u09b0\u09be \u09af\u09be\u099a\u09cd\u099b\u09c7 \u09a8\u09be",
+        "base_ipa": "\u0283 \u0254 r k a r i    m o \u025f u d\u032a o    \u0283 \u0254 r b o k a l e r    \u0283 \u0254 r b o c c o    t\u032a a r p \u0254 r o    c a l e r    d\u032a a m    n i \u02b2 o n t\u032a r o n    k \u0254 r a    \u025f a c c\u02b0 e    n a",
+        "romanized_ipa": "S\u2202rkari mojudo S\u2202rbokaler S\u2202rbocco tarp\u2202ro caler dam niyontron k\u2202ra jacCe na"
+    },
+    "00008019-9d93-468e-8017-b7a42556a2b3": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_collect/00008019-9d93-468e-8017-b7a42556a2b3.flac",
+        "duration": 2.12,
+        "source": "offline_collect",
+        "text": "\u09ae\u09b9\u09be\u09a8 \u09b8\u09c3\u09b7\u09cd\u099f\u09bf \u099a\u09bf\u09b0 \u0995\u09b2\u09cd\u09af\u09be\u09a3\u0995\u09b0",
+        "base_ipa": "m \u0254 h a n    s r i \u0283 t i    c i r    k o l l a n k \u0254 r",
+        "romanized_ipa": "m\u2202Han sriSTi cir kollank\u2202r"
+    },
+    "000096ab-918d-4f7e-a92a-3e03bebfdf0b": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_collect/000096ab-918d-4f7e-a92a-3e03bebfdf0b.flac",
+        "duration": 24.61,
+        "source": "offline_collect",
+        "text": "\u09b0\u09be\u09a4\u09be\u09b0\u09be\u09a4\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u099a\u09c1\u09b2 \u0997\u099c\u09bf\u09df\u09c7 \u0998\u09a8 \u09b9\u09df\u09c7 \u09af\u09be\u09ac\u09c7 \u09a4\u09ac\u09c7 \u09aa\u09c7\u09df\u09be\u09df\u09c7\u09b0 \u09b0\u09b8 \u099a\u09c1\u09b2 \u09aa\u09dc\u09be \u0995\u09ae\u09be\u09a4\u09c7 \u09af\u09c1\u0997 \u09af\u09c1\u0997 \u09a7\u09b0\u09c7 \u09aa\u09cd\u09b0\u09ae\u09be\u09a3\u09bf\u09a4 \u09ac\u09c7\u09b2\u09cb\u09df\u09be\u09b0\u09bf \u09aa\u09cd\u09b0\u09be\u0995\u09c3\u09a4\u09bf\u0995\u09ad\u09be\u09ac\u09c7 \u09ac\u09be\u09a8\u09be\u09a8\u09cb \u09aa\u09c7\u0981\u09df\u09be\u099c\u09c7\u09b0 \u09a4\u09c7\u09b2 \u098f\u0987 \u09ac\u09cb\u09a4\u09b2\u09c7 \u09aa\u09c1\u09b0\u09c7\u099b\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be \u09ae\u09a4 \u0985\u09b0\u09cd\u09a1\u09be\u09b0 \u0995\u09b0\u09c7 \u0986\u09a8\u09bf\u09df\u09c7 \u09a8\u09bf\u09a8 \u09ac\u09c7\u09b2\u09cb\u09df\u09be\u09b0\u09bf \u09aa\u09c7\u09df\u09be\u099c \u09a4\u09c7\u09b2 \u09a6\u09c7\u09b6\u09c7\u09b0 \u09af\u09c7\u0995\u09cb\u09a8\u09cb \u09aa\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09a5\u09c7\u0995\u09c7 \u09ac\u09c7\u09b2\u09cb\u09df\u09be\u09b0\u09bf \u0997\u09cb \u0997\u09cd\u09b0\u09bf\u09a8 \u0997\u09cb \u0985\u09b0\u09cd\u0997\u09be\u09a8\u09bf\u0995",
+        "base_ipa": "r a t\u032a a r a t\u032a i    a p n a r    c u l    g o \u025f i \u02b2 e    g\u02b0 \u0254 n o    h o \u02b2 e    \u025f a b e    t\u032a \u0254 b e    p e \u02b2 a \u02b2 e r    r \u0254 \u0283    c u l    p \u0254 \u027d a    k \u0254 m a t\u032a e    \u025f u g    \u025f u g    d\u032a\u02b0 \u0254 r e    p r o m a n i t\u032a o    b e l o \u02b7 a r i    p r a k r i t\u032a i k b\u02b0 a b e    b a n a n o    p e\u0303 \u02b2 a \u025f e r    t\u032a e l    e i\u032f    b o t\u032a o l e    p u r e c\u02b0 e    a p n a r    \u0283 u b i d\u032a\u02b0 a    m \u0254 t\u032a    \u0254 r d a r    k o r e    a n i \u02b2 e    n i n    b e l o \u02b7 a r i    p e \u02b2 a \u025f    t\u032a e l    d\u032a e \u0283 e r    \u025f e k o n o    p r a n t\u032a o    t\u032a\u02b0 e k e    b e l o \u02b7 a r i    g o    g r i n    g o    \u0254 r g a n i k",
+        "romanized_ipa": "ratarati apnar cul gojiye G\u2202no Hoye jabe t\u2202be peyayer r\u2202S cul p\u2202Ra k\u2202mate jug jug \u03b4\u2202re promanito belowari prakritikvabe banano pEyajer tel e\u03b9 botole pureCe apnar Subi\u03b4a m\u2202t \u2202rDar kore aniye nin belowari peyaj tel deSer jekono pranto \u03c4eke belowari go grin go \u2202rganik"
+    },
+    "00009923-509e-4bac-971b-b256b8544f3d": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv2/00009923-509e-4bac-971b-b256b8544f3d.flac",
+        "duration": 2.64,
+        "source": "csv2",
+        "text": "\u09aa\u09b0\u09c0\u0995\u09cd\u09b7\u09be \u0995\u09b0\u09a4\u09c7 \u0986\u09b8\u09c7",
+        "base_ipa": "p o r i k k\u02b0 a    k o r t\u032a e    a \u0283 e",
+        "romanized_ipa": "porikKa korte aSe"
+    },
+    "0000a2b3-ffb6-4e36-95f8-c8935fe9420f": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv2/0000a2b3-ffb6-4e36-95f8-c8935fe9420f.flac",
+        "duration": 8.89,
+        "source": "csv2",
+        "text": "\u09b0\u09b9\u09ae\u09a4 \u09b6\u09be\u09b9 \u0986\u09b8\u0997\u09b0 \u0986\u09ab\u0997\u09be\u09a8 \u09b9\u09be\u09b6\u09ae\u09a4 \u0989\u09b2\u09cd\u09b2\u09be\u09b9 \u09b6\u09be\u09b9\u09bf\u09a6\u09bf \u09a8\u099c\u09bf\u09ac\u09c1\u09b2\u09cd\u09b2\u09be\u09b9 \u099c\u09be\u09a6\u09b0\u09be\u09a8 \u09b8\u09be\u09ae\u09bf\u0989\u09b2\u09cd\u09b2\u09be\u09b9 \u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6 \u09a8\u09ac\u09c0",
+        "base_ipa": "r \u0254 h \u0254 m \u0254 t\u032a    \u0283 a h    a s g \u0254 r    a p\u02b0 g a n    h a \u0283 m \u0254 t\u032a    u l l a h    \u0283 a h i d\u032a i    n o \u025f i b u l l a h    \u025f a d\u032a r a n    s a m i u\u032f l l a h    m o h a m m \u0254 d\u032a    n o b i",
+        "romanized_ipa": "r\u2202H\u2202m\u2202t SaH asg\u2202r aPgan HaSm\u2202t ullaH SaHidi nojibullaH jadran sami\u03bcllaH moHamm\u2202d nobi"
+    },
+    "0000c188-5501-4d48-9fba-efd02d15a884": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv2/0000c188-5501-4d48-9fba-efd02d15a884.flac",
+        "duration": 9.42,
+        "source": "csv2",
+        "text": "\u09ae\u09be\u09a8\u09b9\u09be\u09a8\u09bf \u09ac\u09be \u0985\u09aa\u09b0\u09be\u09a7 \u09b8\u0982\u0998\u099f\u09a8\u09c7 \u09aa\u09cd\u09b0\u09b0\u09cb\u099a\u09a8\u09be \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u0986\u0987\u09a8\u09c7\u09b0 \u09a6\u09cd\u09ac\u09be\u09b0\u09be \u0986\u09b0\u09cb\u09aa\u09bf\u09a4 \u09af\u09c1\u0995\u09cd\u09a4\u09bf\u09b8\u0999\u09cd\u0997\u09a4 \u09ac\u09be\u09a7\u09be\u09a8\u09bf\u09b7\u09c7\u09a7 \u09b8\u09be\u09aa\u09c7\u0995\u09cd\u09b7\u09c7",
+        "base_ipa": "m a n h a n i    b a    \u0254 p o r a d\u032a\u02b0    \u0283 \u0254 \u014b g\u02b0 \u0254 t o n e    p r o r o c \u0254 n a    \u0283 \u0254 m p \u0254 r k e    a i\u032f n e r    d\u032a a r a    a r o p i t\u032a o    \u025f u k t\u032a i \u0283 \u0254 \u014b g \u0254 t\u032a o    b a d\u032a\u02b0 a n i \u0283 e d\u032a\u02b0    \u0283 a p e k k\u02b0 e",
+        "romanized_ipa": "manHani ba \u2202pora\u03b4 S\u2202NG\u2202Tone proroc\u2202na S\u2202mp\u2202rke a\u03b9ner dara aropito juktiS\u2202Ng\u2202to ba\u03b4aniSe\u03b4 SapekKe"
+    },
+    "0000cd1c-0e6f-4463-9cf8-24671ef2a0ab": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_create/0000cd1c-0e6f-4463-9cf8-24671ef2a0ab.flac",
+        "duration": 1.314,
+        "source": "offline_create",
+        "text": "\u09a8\u09a4\u09c1\u09a8 \u09b8\u09cd\u0995\u09cd\u09b0\u09c1 \u0998\u09cb\u09b0\u09be\u09a8",
+        "base_ipa": "n o t\u032a u n    s k r u    g\u02b0 o r a n",
+        "romanized_ipa": "notun skru Goran"
+    },
+    "0000ce0a-3ddf-45c3-a619-f8b9f95c8ccc": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv1/0000ce0a-3ddf-45c3-a619-f8b9f95c8ccc.flac",
+        "duration": 2.9,
+        "source": "csv1",
+        "text": "\u09a6\u09cd\u09b0\u09c1\u09a4 \u09b2\u09cb\u0995\u099c\u09a8 \u099c\u09dc\u09cb \u09b9\u09df\u09c7 \u09af\u09be\u09df",
+        "base_ipa": "d\u032a r u t\u032a o    l o k \u025f o n    \u025f \u0254 \u027d o    h o \u02b2 e    \u025f a \u02b2",
+        "romanized_ipa": "druto lokjon j\u2202Ro Hoye jay"
+    },
+    "0000cf55-846a-4d4d-b739-6a63274f54e5": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_create/0000cf55-846a-4d4d-b739-6a63274f54e5.flac",
+        "duration": 3.311,
+        "source": "offline_create",
+        "text": "\u09ac\u09be\u09dc\u09bf\u09b0 \u09b8\u09be\u09ae\u09a8\u09c7 \u0985\u09a8\u09c7\u0995 \u09ac\u09dc \u09ac\u09dc \u09a6\u09c1\u099f\u09cb \u09a7\u09be\u09a8\u09c7\u09b0 \u0997\u09cb\u09b2\u09be",
+        "base_ipa": "b a \u027d i r    \u0283 a m n e    \u0254 n e k    b \u0254 \u027d o    b \u0254 \u027d o    d\u032a u t o    d\u032a\u02b0 a n e r    g o l a",
+        "romanized_ipa": "baRir Samne \u2202nek b\u2202Ro b\u2202Ro duTo \u03b4aner gola"
+    },
+    "0000e576-e1db-41d3-a8fe-54482aa04a03": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_collect/0000e576-e1db-41d3-a8fe-54482aa04a03.flac",
+        "duration": 2.284,
+        "source": "offline_collect",
+        "text": "\u09a4\u09be\u09b0\u09aa\u09b0\u09c7 \u09a4\u09cb \u09a4\u09be\u09a6\u09c7\u09b0 \u0995\u09be\u099b\u09c7 \u0995\u09bf\u099b\u09c1 \u09ab\u09be\u09a8\u09cd\u09a1\u0993 \u09a8\u09be\u0987",
+        "base_ipa": "t\u032a a r p \u0254 r e    t\u032a o    t\u032a a d\u032a e r    k a c\u02b0 e    k i c\u02b0 u    p\u02b0 a n d o    n a i\u032f",
+        "romanized_ipa": "tarp\u2202re to tader kaCe kiCu PanDo na\u03b9"
+    },
+    "0000fc95-60c8-41e8-a82b-f8fd05c3b0fe": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_create/0000fc95-60c8-41e8-a82b-f8fd05c3b0fe.flac",
+        "duration": 1.422,
+        "source": "offline_create",
+        "text": "\u0986\u09aa\u09a8\u09bf\u0987 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09b0\u09be\u099c\u09be",
+        "base_ipa": "a p n i i\u032f    a m a d\u032a e r    r a \u025f a",
+        "romanized_ipa": "apni\u03b9 amader raja"
+    },
+    "0001350c-cb21-427a-ab67-cab68eb3d6eb": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_linguists/0001350c-cb21-427a-ab67-cab68eb3d6eb.flac",
+        "duration": 5.76,
+        "source": "offline_linguists",
+        "text": "\u09aa\u09c7\u099f\u09cd\u09b0\u09b2\u09ac\u09cb\u09ae\u09be \u09b0\u09be\u0996\u09be\u09b0 \u0985\u09ad\u09bf\u09af\u09cb\u0997\u09c7 \u099b\u09be\u09a4\u09cd\u09b0\u09a6\u09b2\u09c7\u09b0 \u09a6\u09c1\u0987 \u09a8\u09c7\u09a4\u09be\u0995\u09c7 \u09aa\u09bf\u099f\u09c1\u09a8\u09bf\u09b0 \u09aa\u09b0 \u09aa\u09c1\u09b2\u09bf\u09b6\u09c7 \u09b8\u09cb\u09aa\u09b0\u09cd\u09a6 \u0995\u09b0\u09be \u09b9\u09df\u09c7\u099b\u09c7",
+        "base_ipa": "p e t t r o l b o m a    r a k\u02b0 a r    o b\u02b0 i \u025f o g e    c\u02b0 a t\u032a r o d\u032a \u0254 l e r    d\u032a u i\u032f    n e t\u032a a k e    p i t u n i r    p \u0254 r    p u l i \u0283 e    s o p \u0254 r d\u032a o    k \u0254 r a    h e \u02b2 e c\u02b0 e",
+        "romanized_ipa": "peTTrolboma raKar ovijoge Catrod\u2202ler du\u03b9 netake piTunir p\u2202r puliSe sop\u2202rdo k\u2202ra HeyeCe"
+    },
+    "00014c09-220e-4e8f-8699-09e22d9f4fc0": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv1/00014c09-220e-4e8f-8699-09e22d9f4fc0.flac",
+        "duration": 7.68,
+        "source": "csv1",
+        "text": "\u0985\u09a8\u09c7\u0995 \u09a1\u09be\u0995\u09be\u09a1\u09be\u0995\u09bf\u09a4\u09c7 \u0986\u09ae\u09bf \u09af\u0996\u09a8 \u09b8\u09be\u09dc\u09be \u09a6\u09bf\u099a\u09cd\u099b\u09bf\u09b2\u09be\u09ae \u09a8\u09be \u09a4\u0996\u09a8 \u0993 \u0986\u09ae\u09be\u09b0 \u09ae\u09c1\u0996\u09c7 \u09aa\u09be\u09a8\u09bf \u099b\u09bf\u099f\u09be\u09df",
+        "base_ipa": "\u0254 n e k    d a k a d a k i t\u032a e    a m i    \u025f \u0254 k\u02b0 o n    \u0283 a \u027d a    d\u032a i c c\u02b0 i l a m    n a    t\u032a \u0254 k\u02b0 o n    o    a m a r    m u k\u02b0 e    p a n i    c\u02b0 i t a \u02b2",
+        "romanized_ipa": "\u2202nek DakaDakite ami j\u2202Kon SaRa dicCilam na t\u2202Kon o amar muKe pani CiTay"
+    },
+    "000151fa-1fcf-4306-a3cd-956ac48fd4a5": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv1/000151fa-1fcf-4306-a3cd-956ac48fd4a5.flac",
+        "duration": 3.28,
+        "source": "csv1",
+        "text": "\u09b8\u09be\u09ae\u09a8\u09c7 \u09b6\u09be\u09a8\u09cd\u09a4 \u099c\u09b2\u09c7 \u099f\u09b2\u09ae\u09b2 \u09b8\u09b0\u09cb\u09ac\u09b0",
+        "base_ipa": "\u0283 a m n e    \u0283 a n t\u032a o    \u025f \u0254 l e    t\u032a \u0254 l o m \u0254 l o    \u0283 \u0254 r o b \u0254 r",
+        "romanized_ipa": "Samne Santo j\u2202le t\u2202lom\u2202lo S\u2202rob\u2202r"
+    },
+    "00017d90-6164-42e3-be98-eb6d28f4909b": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv1/00017d90-6164-42e3-be98-eb6d28f4909b.flac",
+        "duration": 10.4,
+        "source": "csv1",
+        "text": "\u09a4\u09ac\u09c7 \u0985\u09b8\u09cd\u099f\u09cd\u09b0\u09c7\u09b2\u09bf\u09df\u09be\u09b0 \u0985\u09ad\u09bf\u09ac\u09be\u09b8\u09a8 \u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u09b9\u09c0 \u0995\u09cd\u09b7\u09ae\u09a4\u09be\u09df \u09ab\u09c7\u09b0 \u099c\u09cb\u0995\u09cb\u09ad\u09bf\u099a\u09c7\u09b0 \u09ad\u09bf\u09b8\u09be \u09ac\u09be\u09a4\u09bf\u09b2 \u0995\u09b0\u09c7\u09a8",
+        "base_ipa": "t\u032a \u0254 b e    \u0254 s t r e l i \u02b2 a r    o b\u02b0 i b a \u0283 o n    m o n t\u032a r i    n i r b a h i    k\u02b0 \u0254 m o t\u032a a \u02b2    p\u02b0 e r    \u025f o k o b\u02b0 i c e r    b\u02b0 i s a    b a t\u032a i l    k \u0254 r e n",
+        "romanized_ipa": "t\u2202be \u2202sTreliyar ovibaSon montri nirbaHi K\u2202motay Per jokovicer visa batil k\u2202ren"
+    },
+    "0001a5fb-c882-4ee4-bae0-73b3dab33c61": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/offline_create/0001a5fb-c882-4ee4-bae0-73b3dab33c61.flac",
+        "duration": 3.231,
+        "source": "offline_create",
+        "text": "\u098f\u0987\u099c\u09a8\u09cd\u09af \u09ac\u09be\u0987\u09b0\u09c7\u09b0 \u0995\u09a5\u09be \u0995\u0996\u09a8\u09cb \u09ac\u09bf\u09ac\u09bf\u0995\u09c7 \u099c\u09be\u09a8\u09be\u09a8 \u09a8\u09be",
+        "base_ipa": "e i\u032f \u025f o n n o    b a i\u032f r e r    k \u0254 t\u032a\u02b0 a    k \u0254 k\u02b0 o n o    b i b i k e    \u025f a n a n    n a",
+        "romanized_ipa": "e\u03b9jonno ba\u03b9rer k\u2202\u03c4a k\u2202Kono bibike janan na"
+    },
+    "0001b29a-13c0-4252-a1a0-9ec69c7388ea": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/tts_internal/0001b29a-13c0-4252-a1a0-9ec69c7388ea.flac",
+        "duration": 2.4,
+        "source": "tts_internal",
+        "text": "\u09a4\u09be\u09b0\u09be \u0986\u099c \u0996\u09cb\u09b6\u09ae\u09c7\u099c\u09be\u099c\u09c7 \u0986\u099b\u09c7\u09a8",
+        "base_ipa": "t\u032a a r a    a \u025f    k\u02b0 o \u0283 m e \u025f a \u025f e    a c\u02b0 e n",
+        "romanized_ipa": "tara aj KoSmejaje aCen"
+    },
+    "000219eb-4d28-4d7b-bbbd-7bee6e327c8a": {
+        "audio": "/UPDS/STT/large_dataset_reve_cv_oslr/csv1/000219eb-4d28-4d7b-bbbd-7bee6e327c8a.flac",
+        "duration": 2.94,
+        "source": "csv1",
+        "text": "\u09ad\u09be\u0987\u09df\u09be \u0985\u09a8\u09c7\u0995 \u09b8\u09ae\u09df \u09a8\u09bf\u09df\u09c7 \u09ab\u09c7\u09b2\u09b2\u09be\u09ae",
+        "base_ipa": "b\u02b0 a i\u032f \u02b2 a    \u0254 n e k    \u0283 o m \u0254 \u02b2    n i \u02b2 e    p\u02b0 e l l a m",
+        "romanized_ipa": "va\u03b9ya \u2202nek Som\u2202y niye Pellam"
+    }
+}
