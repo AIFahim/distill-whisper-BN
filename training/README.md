@@ -18,11 +18,7 @@ Reproducing the Distil-Whisper project requires four stages to be completed in s
 3. [Training](#3-training)
 4. [Evaluation](#4-evaluation)
 
-This README is partitioned according to the four stages. Each section provides a minimal example for running the
-scripts used in the project. We will use a running example of distilling the Whisper model for Hindi speech recognition
-on the Common Voice dataset. Note that this dataset only contains ~20 hours of audio data. Thus, it can be run extremely
-quickly, but does not provide sufficient data to achieve optimal performance. We recommend training on upwards of 1000 
-hours of data should you want to match the performance of Whisper on high-resource languages.
+This README is for Bangla speech distillilation.
 
 ## Requirements
 
@@ -96,7 +92,7 @@ with [🤗 Datasets](https://github.com/huggingface/datasets) *streaming mode*, 
 datasets with **no disk space requirements**. For more information on streaming mode, the reader is referred to the 
 blog post: [A Complete Guide to Audio Datasets](https://huggingface.co/blog/audio-datasets#streaming-mode-the-silver-bullet).
 
-The following script demonstrates how to pseudo-label the Hindi split of the Common Voice 13 dataset with greedy sampling:
+The following script demonstrates how to pseudo-label the Bangla split of the Common Voice 13 dataset with greedy sampling:
 
 ```bash
 #!/usr/bin/env bash
